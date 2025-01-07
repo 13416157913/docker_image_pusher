@@ -1,1 +1,1 @@
-naspthu/multiverse-ss:latest
+naspthu/multiverse-ss:1.0.0
